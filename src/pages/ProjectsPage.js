@@ -1,6 +1,7 @@
 import React from 'react';
 
 function ProjectsPage() {
+  console.log("Projects component loaded");
   const projects = [
     {
       title: "Project 1",

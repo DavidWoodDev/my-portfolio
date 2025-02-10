@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 
 function ContactPage() {
+  console.log("ContactPage component loaded");
   const [formData, setFormData] = useState({ name: '', email: '', message: '' });
 
   const handleChange = (e) => {
