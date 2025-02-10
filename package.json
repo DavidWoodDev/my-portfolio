@@ -5,7 +5,7 @@
     "@testing-library/react": "^16.2.0",
     "gh-pages": "^6.3.0"
   },
-  "homepage": "https://DavidWoodDev.github.io/",
+  "homepage": "https://davidwooddev.github.io/my-portfolio",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
